@@ -1,4 +1,4 @@
-# Finance Calculators
+# Finance Calculator
 
 ## Description
 This program is a financial calculator that allows the user to choose either investment or bond (loan) and subsequently calculate the interest accrued on an investment over x amount of years or the monthly repayments on a home loan over x amount of months.
